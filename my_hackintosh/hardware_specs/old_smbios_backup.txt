@@ -1,0 +1,14 @@
+# Old Forked Repository SMBIOS Backup (Catalina Era)
+
+Type: MacBookPro16,1
+Serial: C02Y2046MD6N
+MLB: C029015004NN9PR1H
+SystemUUID: 948E8DEB-7EFD-4141-88C1-A23017172E40
+ROM: 3CthvfF1 (3c7468766646)
+
+# New Personalised SMBIOS (OpenCore 1.0.0 for macOS Sonoma / Sequoia)
+
+Type: MacBookPro16,1
+Serial: C02F7TZ0MD6N
+MLB: C02106303GUN9PR1H
+SystemUUID: E6F2F893-DAE9-4267-9AA4-E66AF9710255

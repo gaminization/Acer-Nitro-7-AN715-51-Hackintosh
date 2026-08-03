@@ -1,0 +1,391 @@
+
+Hosted by Level1Techs
+Skip to main content
+[Request] Unlocked ACER NITRO 7- AN715-51 BIOS
+BIOS/UEFI Modding
+BIOS Modding Requests
+
+read 43 min
+Mar 2020
+Jul 2021
+3 months later
+10 days later
+aceran715-51-user
+Jul 2021
+
+        Zitat von BDMaster im Beitrag #58i posted the links where Lost_N_BIOS wrote there isn't possibility to bypass this issue ... 
+
+I didn’t quite catch you at this point because he confirms that PRR’s are actually disabled.
+
+    Great, so the vars edit does unlock FPRR
+
+
+
+And a little question for you, @aceran715-51-user . Did you reboot your device before doing the last backup?
+
+    Even after errors, I have run Backup Tool.
+
+
+
+
+Not yet, let me power off and on and then try again? Will upload and reply with the link within 10-ish minutes.
+
+EDIT -
+
+As I had already processed write.bat as per previous instructions, I did not run it again but simply turned off the laptop, waited few minutes, and turned it back on.
+
+Then I ran the backup tool again, backup @ https://www.sendspace.com/file/lv79e4
+
+Let me know how else I can help you in helping me.
+
+Warmest Regards to both of you.
+
+Sweet_Kitten
+Jul 2021
+
+@aceran715-51-user
+And now it successfully writes. Which is to be expected.
+You didn’t need to confirm this by making a backup again. A simple yes or no to the question of rebooting would have been enough, but thanks anyway.
+@BDMaster
+You can continue, it was not me who modifying his bios.
+
+BDMaster
+Jul 2021
+
+@Sweet_Kitten (i love u bro, u know it) so you can continue or doing anything as i have i big respect for u and i will continue to say say yet you’re better modder i know !
+
+@aceran715-51-user here you go :
+
+https://www.mediafire.com/file/fhxik5slk…29_Mod.rar/file
+
+Just flash it by double click on Write.bat program !
+Let us know
+Regards
+
+aceran715-51-user
+Jul 2021
+
+
+    @Sweet Kitten (i love u bro, u know it) so you can continue or doing anything as i have i big respect for u and i will continue to say say yet you’re better modder i know !
+
+    @aceran715-51-user here you go :
+
+    https://www.mediafire.com/file/fhxik5slk…29_Mod.rar/file
+
+    Just flash it by double click on Write.bat program !
+    Let us know
+    Regards
+
+
+
+
+Thank You so much, I am utterly thankful. It flashed great and the laptop boots fine into BIOS. However, I had a couple of questions -
+
+1. Can I write original vars.txt -> reboot -> flash original BIOS using original driver file to compare both of them (without any damages hopefully); and then repeat with varsmod and new BIOS to come back to the MOD?
+2. I have included screenshots from new BIOS @ https://imgur.com/a/V1Mx8eK for points 3 and 4 below -
+3. As can be seen in the images and their description on imgur site, some crucial options are still not visible / grayed out.
+4. Although advanced and power tab are unlocked (many many thanks), but I still cannot find two major options I was originally looking to tweak - namely, unlock legacy boot mode and toggle between Intel RST modes (Disabled / RST premium with optane / RST standard etc)
+
+I hope I have described my question in detail to avoid confusion.
+
+I’m heartily grateful for your time and effort
+
+Warmest of regards to you both!
+
+
+New & Unread Topics
+Topic list, column headers with buttons are sortable.
+Topic 	Replies 	Views 	Activity
+[Request] GA-B250M-D3H-CF BIOS with 9th Gen CPU Support
+BIOS Modding Requests
+	2 	106 	Jan 7
+[Request] Unlocked Asrock X99 WS BIOS
+BIOS Modding Requests
+	10 	163 	Mar 12
+[Request] Radeon RX 580 Nitro 8GB vBios Mod
+BIOS Modding Requests
+	24 	518 	Oct 2025
+[Request] ASRock Z97 Extreme9 BIOS with NVMe Support
+BIOS Modding Requests
+	10 	270 	Aug 2025
+[Request] HP Elitedesk 705 G3 Mini BIOS with Ryzen 3 Support
+BIOS Modding Requests
+	0 	48 	Apr 25
+Want to read more? Browse other topics in BIOS Modding Requests or view latest topics.
+Powered by Discourse
+
+
+Bios Mods - The Best BIOS Update and Modification Source
+
+    Home
+    Forums
+    BIOS Update
+    BIOS Recovery
+        Award
+        AMI
+        Phoenix
+        Insyde
+        Flash Service
+    BIOS Settings
+    Modification Downloads
+        Modding Tools
+        Option ROMs
+        EPA Gallery
+    Wiki
+    Help Resources
+        Contact Us
+        About Us
+        Donate
+        Site Blog
+
+    Donate Member List Forum Rules Search 
+
+Hello There, Guest! Login Register
+Bios Mods - The Best BIOS Update and Modification Source › Bios Mods Forum › Insyde BIOS Unlocking Requests v
+[REQUEST] Acer Nitro 7 AN715-51 BIOS Unlock
+
+Forum RSS Feed
+Follow @ Twitter
+Follow On Facebook
+
+Thread Rating:
+
+    0 Vote(s) - 0 Average
+    1
+    2
+    3
+    4
+    5
+
+[-]
+Welcome
+You have to register before you can post on our site.
+
+Username:
+
+
+Password:
+
+
+Remember me
+
+
+[-]
+Latest Threads
+Foxconn 865G7MF Pinmodded Xeon Support
+Last Post: DeathBringer
+Today 09:35 AM
+» Replies: 22
+» Views: 2941
+[REQUEST] LGA 771 on old ASUS mobo
+Last Post: DeathBringer
+Today 08:04 AM
+» Replies: 8
+» Views: 213
+Advent Roma 2000/ECS I50IL1
+Last Post: BootlegScarce
+Yesterday 09:05 PM
+» Replies: 2
+» Views: 5655
+[REQUEST] Lenovo G70-70 BIOS Whitelist R...
+Last Post: Dudu2002
+Yesterday 05:34 PM
+» Replies: 135
+» Views: 111591
+[Request] Samsung Galaxy Book2 Pro (P12R...
+Last Post: RafaelLVX
+Yesterday 01:18 PM
+» Replies: 0
+» Views: 117
+［REQUEST］NEC Versapro VA-B(PC-VK22EAZCB)...
+Last Post: mita-710
+Yesterday 05:49 AM
+» Replies: 0
+» Views: 120
+[REQUEST] HP Pavilion DV6-2170 UEFI Bios...
+Last Post: bernat77
+07-31-2026 06:07 AM
+» Replies: 2
+» Views: 203
+[REQUEST] Lenovo Thinkpad W540 & W541 (G...
+Last Post: Profit21
+07-31-2026 05:47 AM
+» Replies: 52
+» Views: 44841
+NEC Versapro VA-B unlock&core 2 extreme ...
+Last Post: mita-710
+07-30-2026 08:45 PM
+» Replies: 14
+» Views: 665
+ThinkPad x240 bios corrupted
+Last Post: grayreighn
+07-30-2026 08:48 AM
+» Replies: 2
+» Views: 3079
+[REQUEST] Lenovo ThinkCentre Edge 91z UE...
+Last Post: maver3000
+07-30-2026 03:10 AM
+» Replies: 0
+» Views: 233
+[QUESTION] Modding an AMI bios to bypass...
+Last Post: Machida96
+07-29-2026 03:52 PM
+» Replies: 11
+» Views: 5505
+[REQUEST] Acer Nitro 5 AN517-54 BIOS Unl...
+Last Post: mistermu
+07-29-2026 02:58 PM
+» Replies: 30
+» Views: 18688
+[Removed, sp55068] Remove Whitelist for ...
+Last Post: billydv
+07-29-2026 11:33 AM
+» Replies: 55
+» Views: 92346
+[REQUEST] Asus X53E (K53E) BIOS Unlock
+Last Post: adrianfem
+07-28-2026 08:33 PM
+» Replies: 20
+» Views: 9483
+[REQUEST] Acer Aspire 5739G BIOS Unlock
+Last Post: abood2009idk
+07-28-2026 07:50 PM
+» Replies: 8
+» Views: 10531
+[REQUEST] Lenovo B590 (H1ETxxWW) Whiteli...
+Last Post: alex0310
+07-28-2026 02:10 PM
+» Replies: 803
+» Views: 582999
+Asus X55SV - 9500M GS -> 9650m gt
+Last Post: Flow2710
+07-27-2026 09:29 AM
+» Replies: 0
+» Views: 348
+MICROSOFT LAPTOP 3 MODEL 1872
+Last Post: MEMOREX2
+07-25-2026 06:54 AM
+» Replies: 0
+» Views: 439
+Help recovering Acer Aspire 4750G BIOS
+Last Post: windfeng1314
+07-24-2026 05:37 AM
+» Replies: 1
+» Views: 2090
+
+	
+Threaded Mode
+[REQUEST] Acer Nitro 7 AN715-51 BIOS Unlock
+Posts: 1
+Threads: 1
+Joined: Mar 2020
+Reputation: 0
+mesh17 Offline
+Junior Member
+**
+#1
+03-12-2020, 01:58 PM
+Hello .
+Most of the Advanced and some greyed out menu were unlocked by Win-raid forums . 
+the only things that I can't get are power and maybe a 2nd security menu . also something greyed (maybe) .
+
+Imp -  Its just the bios region extracted and flashed from FPT .
+I'm dumping the work below with Unlocked FPRR , Advanced , overclocking menu . 
+
+here are the form sets . can someone please take a look into it . 
+thank you in advance !
+
+here's the bios region from FPT - http://s000.tinyupload.com/index.php?fil...8768868298
+
+
+Attached Files
+Thumbnail(s)
+   
+find
+quote
+Posts: 1
+Threads: 0
+Joined: Apr 2021
+Reputation: 0
+Parsh18 Offline
+Junior Member
+**
+#2
+04-15-2021, 06:30 AM
+Hello, I'm very happy to be a with my new laptop. Unfortunately the BIOS is very basic and I came across this site to hopefully get some features unlocked. I thank you guys for taking the time to read this and even attempting to try to help me out!
+Acer Nitro 7 AN715-51 : https://www.acer.com/ac/en/IN/content/mo....Q5FSI.004
+
+BIOS: https://global-download.acer.com/GDFiles...R&SC=AAP_2
+
+
+Your help would be really appreciated.
+Thank you
+find
+quote
+Posts: 1
+Threads: 0
+Joined: Aug 2023
+Reputation: 0
+melvin123 Offline
+Junior Member
+**
+#3
+08-23-2023, 02:22 PM
+Make and Model: Acer Nitro 7 AN715-51
+BIOS Link: https://global-download.acer.com/GDFiles...R&SC=AAP_2
+
+I want to unlock my BIOS in order to raise the throttling temperature that ACER has set for this laptop. I hope the ADEVANCED Tab can be unlocked because it contains the option to change this temperature. 
+
+Thank you!
+find
+quote
+Posts: 6,510
+Threads: 0
+Joined: Jun 2016
+Reputation: 537
+Dudu2002 Offline
+BIOS (Phoenix, Insyde) Modder
+*****
+#4
+08-23-2023, 02:35 PM
+
+    (08-23-2023, 02:22 PM)melvin123 Wrote:
+    Make and Model: Acer Nitro 7 AN715-51
+    BIOS Link: https://global-download.acer.com/GDFiles...R&SC=AAP_2
+
+    I want to unlock my BIOS in order to raise the throttling temperature that ACER has set for this laptop. I hope the ADEVANCED Tab can be unlocked because it contains the option to change this temperature. 
+
+    Thank you!
+
+Hi
+All mods are personal
+Need your bios dump
+find
+quote
+Posts: 1
+Threads: 0
+Joined: Sep 2023
+Reputation: 0
+Arctrometa Offline
+Junior Member
+**
+#5
+09-17-2023, 11:11 AM
+Hello everyone, I'd like to request a bios mod for my 1660ti Mobile on an Acer Nitro 7 (AN715-51-53DW) it currently is restricted to 80W and i'd like for it to be able to go higher for better perf. attached below is my bios dump. Any help is appreciated!
+https://drive.google.com/file/d/1HVLbNL5...drive_link
+find
+quote
+« Next Oldest | Next Newest »
+
+
+    View a Printable Version
+
+Forum Jump:
+
+
+Users browsing this thread: 1 Guest(s)
+
+    Contact Us BIOS Mods Return to Top Mobile Version RSS Syndication Help 
+
+Current time: 08-02-2026, 11:14 AM Powered By MyBB, © 2002-2026 MyBB Group. Theme created by Justin S. Valid XHTML 1.0 Transitional Valid CSS![Valid RSS]
+
